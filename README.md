@@ -1,5 +1,5 @@
 <a href="https://app.rocketseat.com.br/me/mffdeo">
-<img src="https://app.rocketseat.com.br/api/rocketid/share?slug=mffdeo&type=card" width="140" alt="MARCOS  OLIVEIRA's Rocket ID"/>
+<img src="https://app.rocketseat.com.br/api/rocketid/share?slug=mffdeo&type=card" width="280" alt="MARCOS  OLIVEIRA's Rocket ID"/>
 </a>
 
 🚒 Bombeiro Militar do Amazonas  🤿 Mergulhador de Resgate  💻 Estudante de TI
