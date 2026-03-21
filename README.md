@@ -39,8 +39,10 @@ Minha experiência como bombeiro e mergulhador me trouxe disciplina, tomada de d
 
 🔹 [C Fundamentals](https://github.com/mffdeo/c-fundamentals)  
 Estudos práticos em linguagem C com foco em fundamentos e evolução diária.
+
 🔹 [Fundamentos Node.js](https://github.com/mffdeo/fundamentos-node-rocketseat)  
 Projeto desenvolvido com o objetivo de aprender Node.js puro, sem o uso de frameworks como Express, baseado no desafio da Rocketseat Ignite.
+
 🔹 [US Phone Number Checker](https://github.com/mffdeo/US-phone-number-check)
 Projeto desenvolvido em 2020 como desafio do FreeCodeCamp. O objetivo é validar números de telefone dos Estados Unidos, aplicando expressões regulares (Regex) e regras de formatação para diferentes padrões válidos de entrada utilizando a linguagem Javascript.
 
