@@ -7,11 +7,12 @@ Minha experiência como bombeiro e mergulhador me trouxe disciplina, tomada de d
 ---
 
 ## 💻 Tecnologias e Estudos
-![C](https://img.shields.io/badge/C-Fundamentos-blue)
-![Node.js](https://img.shields.io/badge/Node.js-Backend-green)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue)
-![APIs](https://img.shields.io/badge/API-REST-orange)
-![Status](https://img.shields.io/badge/Evolução-Constante-yellow)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![REST API](https://img.shields.io/badge/API_REST-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ### 🧠 Fundamentos de Programação
 - Linguagem C (gerenciamento de memória e baixo nível)
 - Estruturas de Dados
