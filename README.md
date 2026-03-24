@@ -39,6 +39,9 @@ Projeto desenvolvido com o objetivo de aprender Node.js puro, sem o uso de frame
 🔹 [US Phone Number Checker](https://github.com/mffdeo/US-phone-number-check)
 Projeto desenvolvido em 2020 como desafio do FreeCodeCamp. O objetivo é validar números de telefone dos Estados Unidos, aplicando expressões regulares (Regex) e regras de formatação para diferentes padrões válidos de entrada utilizando a linguagem Javascript.
 
+🔹 [Sistema de Cadastro em PHP procedural](https://github.com/mffdeo/php-cadastro-sistema-2018)
+Aplicação web desenvolvida em PHP com persistência em MySQL, utilizando um fluxo de cadastro em múltiplas etapas. Projeto originalmente criado em 2018 e refatorado em 2026
+
 ---
 
 ## 📈 Em evolução
