@@ -29,6 +29,14 @@ Minha experiência como bombeiro e mergulhador me trouxe disciplina, tomada de d
 
 ---
 
+<div>
+
+<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/graphic.svg?raw=true"/> <b>Estatísticas & Atividade</b>
+
+</div>
+
+</div>
+
 <table>
 <tr>
  <td align="center" colspan="2">⌛ WakaTime </td>
