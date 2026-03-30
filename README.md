@@ -31,7 +31,7 @@ Minha experiência como bombeiro e mergulhador me trouxe disciplina, tomada de d
 
 <table>
 <tr>
- <td align="center" colspan="2">⌛ WakaTime Stats</td>
+ <td align="center" colspan="2">⌛ WakaTime </td>
 </tr> 
 <tr>
 <td>
