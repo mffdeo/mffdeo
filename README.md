@@ -29,6 +29,38 @@ Minha experiência como bombeiro e mergulhador me trouxe disciplina, tomada de d
 
 ---
 
+<table>
+<tr>
+ <td align="center" colspan="2">⌛ WakaTime Stats</td>
+</tr> 
+<tr>
+<td>
+<img src="https://helio-github-stats.vercel.app/api/wakatime?username=mffdeo&custom_title=Tempo+de+Código&layout=compact&display_format=time&langs_count=22&theme=dark&hide_border=true"/>
+</td>
+<td>
+<img src="https://helio-github-stats.vercel.app/api/wakatime?username=mffdeo&custom_title=Detalhes&layout=default&display_format=time&langs_count=12&theme=dark&hide_border=true"/>
+</td>
+</tr>
+</table>
+<table>
+<tr>
+ <td align="center" colspan="3">📊 Linguagens mais usadas</td>
+</tr> 
+<tr>
+<td>
+<img src="https://helio-github-stats.vercel.app/api/top-langs?username=mffdeo&layout=normal&stats_format=percentages&theme=dark&hide_border=true&border_radius=4.5&card_width=350&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=9" width="350"/>
+</td>
+<td>
+<img src="https://helio-github-stats.vercel.app/api/top-langs?username=mffdeo&layout=pie&stats_format=percentages&theme=dark&hide_border=true&border_radius=4.5&card_width=300&locale=pt-br&custom_title=Distribuição&langs_count=12" width="300"/>
+</td>
+<td>
+<img src="https://helio-github-stats.vercel.app/api/top-langs?username=mffdeo&layout=donut-vertical&stats_format=bytes&theme=dark&hide_border=true&border_radius=4.5&card_width=300&locale=pt-br&custom_title=Uso+real&langs_count=12" width="300"/>
+</td>
+</tr>
+</table>
+
+---
+
 ## 📚 Projetos em destaque
 
 🔹 [C Fundamentals](https://github.com/mffdeo/c-fundamentals)  
@@ -45,22 +77,6 @@ Projeto desenvolvido em 2020 como desafio do FreeCodeCamp. O objetivo é validar
 
 🔹 [Sistema de Cadastro em PHP procedural](https://github.com/mffdeo/php-cadastro-sistema-2018)
 Aplicação web desenvolvida em PHP com persistência em MySQL, utilizando um fluxo de cadastro em múltiplas etapas. Projeto originalmente criado em 2018 e refatorado em 2026
-
----
-
-<table>
-<tr>
- <td align="center" colspan="2">⌛ WakaTime Stats</td>
-</tr> 
-<tr>
-<td>
-<img src="https://helio-github-stats.vercel.app/api/wakatime?username=mffdeo&custom_title=Tempo+de+Código&layout=compact&display_format=time&langs_count=22&theme=dark&hide_border=true"/>
-</td>
-<td>
-<img src="https://helio-github-stats.vercel.app/api/wakatime?username=mffdeo&custom_title=Detalhes&layout=default&display_format=time&langs_count=12&theme=dark&hide_border=true"/>
-</td>
-</tr>
-</table>
 
 ---
 
