@@ -43,7 +43,8 @@ Minha experiência como bombeiro e mergulhador me trouxe disciplina, tomada de d
  </tr> 
  <tr>
  <td>
- <img src="https://helio-github-stats.vercel.app/api/wakatime?username=mffdeo&custom_title=Tempo+de+Código&layout=compact&display_format=time&langs_count=22&theme=dark&hide_border=true"/>
+ <!--<img src="https://helio-github-stats.vercel.app/api/wakatime?username=mffdeo&custom_title=Tempo+de+Código&layout=compact&display_format=time&langs_count=22&theme=dark&hide_border=true"/> -->
+  <img src = 'https://helio-github-stats.vercel.app/api/wakatime?username=mffdeo&custom_title=Tempo+Total+de+Código&layout=compact&display_format=time&range=all_time&theme=dark&hide_border=true'/>
  </td>
  <td>
  <img src="https://helio-github-stats.vercel.app/api/wakatime?username=mffdeo&custom_title=Detalhes&layout=default&display_format=time&langs_count=12&theme=dark&hide_border=true"/>
