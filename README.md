@@ -39,7 +39,7 @@ Minha experiência como bombeiro e mergulhador me trouxe disciplina, tomada de d
 
 <table>
  <tr>
-  <td align="center" colspan="2">:watch: <a href="https://wakatime.com/@mffdeo">WakaTime</a></td>
+  <td align="center" colspan="2"><a href="https://wakatime.com/@7e77545c-a698-498e-846e-5f99efd0f686"><img src="https://wakatime.com/badge/user/7e77545c-a698-498e-846e-5f99efd0f686.svg" alt="Total time coded since Mar 29 2026" /></a></td>
  </tr> 
  <tr>
  <td>
