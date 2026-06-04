@@ -34,9 +34,7 @@ A Stackovia também é meu laboratório pessoal de evolução: enquanto estudo, 
 ### 🔗 Links da Stackovia
 
 - 🌐 Hub da série: https://mffdeo.github.io/stackovia-learning/
-- 📘 Volume 1: https://mffdeo.github.io/stackovia-vol01-fundamentos-dev-moderno/
 - 🧩 Repositório hub: https://github.com/mffdeo/stackovia-learning
-- 📚 Repositório do Volume 1: https://github.com/mffdeo/stackovia-vol01-fundamentos-dev-moderno
 
 > A Stackovia é, ao mesmo tempo, meu projeto de aprendizado, meu laboratório de escrita técnica e minha forma de contribuir com quem também está estudando tecnologia.
 
